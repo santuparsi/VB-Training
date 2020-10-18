@@ -1,0 +1,9 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\bin\Debug\HandsOnConditionalStaments.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\bin\Debug\HandsOnConditionalStaments.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\bin\Debug\HandsOnConditionalStaments.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.pdb

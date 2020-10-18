@@ -1,0 +1,42 @@
+F5-Run the application with debug
+CTRL+F5-Run the application with out debug
+F9-Toggle Break Poing
+F11-Step Over
+
+Datatypes in VB.net
+------------------
+Number Types
+
+Byte and SByte
+Short and UShort
+Integer and UInteger
+Long and ULong
+
+Decimal Types
+
+Single
+Double
+Decimal 
+
+
+Boolean
+Char
+Date
+Object
+String
+
+Operators in VB.net
+----------------
+Arithmetic Operator(+,-,*,/,\,MOD,^)
+Comparison Operator(=,<>,>,<,>=,<=)
+Logical Operators(And,Or,Not)
+Assignmet Operators(=,+=,-=,*=,/=,\=)
+
+Conditional Statements
+----------------------
+if-statements
+simle if
+if else
+nested if
+if else ladder
+select -statements

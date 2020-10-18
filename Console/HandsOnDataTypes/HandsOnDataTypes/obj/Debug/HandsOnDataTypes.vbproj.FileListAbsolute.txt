@@ -1,0 +1,10 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\bin\Debug\HandsOnDataTypes.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.vbprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDataTypes\HandsOnDataTypes\obj\Debug\HandsOnDataTypes.pdb
