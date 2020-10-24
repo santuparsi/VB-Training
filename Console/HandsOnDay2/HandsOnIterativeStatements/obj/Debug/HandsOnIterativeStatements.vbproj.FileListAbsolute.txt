@@ -1,0 +1,11 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.exe.config
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\bin\Debug\HandsOnIterativeStatements.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.vbprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnDay2\HandsOnIterativeStatements\obj\Debug\HandsOnIterativeStatements.pdb

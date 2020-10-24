@@ -1,0 +1,27 @@
+VB.Net Conditional Statements
+---------------------------
+if condition then
+
+end if
+
+if condition then
+'statements
+else
+'statements
+end if
+
+if condtion then
+'statements
+elseif condtion then
+'statements
+elseif condtion then
+'statements
+else
+'statements
+end if
+
+Iterative Statements
+-------------------
+1 while condition
+'statements
+end while

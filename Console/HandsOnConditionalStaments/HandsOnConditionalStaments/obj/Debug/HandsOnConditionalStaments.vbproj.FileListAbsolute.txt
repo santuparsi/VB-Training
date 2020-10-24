@@ -7,3 +7,4 @@ D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnCond
 D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.exe
 D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.xml
 D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnConditionalStaments\HandsOnConditionalStaments\obj\Debug\HandsOnConditionalStaments.vbprojAssemblyReference.cache
