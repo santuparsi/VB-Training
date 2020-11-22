@@ -1,0 +1,21 @@
+while
+while codition
+//statemetns
+end while
+do-while
+do
+'statements
+loop while condition
+for
+foreach
+
+Array
+----
+A Array is a collection that hold multiple values of same type.
+
+dim variable_name(size) as data_type
+dim n(10) as integer
+dim str(5) as string
+//assign value
+n(0)=10
+n(1)=20

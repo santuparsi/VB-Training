@@ -1,0 +1,11 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\bin\Debug\HandsOnArrays.exe.config
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\bin\Debug\HandsOnArrays.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\bin\Debug\HandsOnArrays.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\bin\Debug\HandsOnArrays.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnArrays\HandsOnArrays\obj\Debug\HandsOnArrays.vbprojAssemblyReference.cache
