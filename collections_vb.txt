@@ -1,0 +1,13 @@
+Collections in Vb.net
+---------------------
+A Collection is a group of values of set of objects
+Collection Classes in Vb.net
+--------------------------
+ArrayList(Index based)
+HashTable(Key based)
+SortedList(Key based)
+Stack(last in first out type)
+Queue(first in first out)
+
+The above collection can store any type of data
+system.collections

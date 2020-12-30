@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{33206CC3-AE80-4C3D-B26C-EC521686A2D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HandsOnCollections.Test_Student</StartupObject>
+    <StartupObject>HandsOnCollections.Module6</StartupObject>
     <RootNamespace>HandsOnCollections</RootNamespace>
     <AssemblyName>HandsOnCollections</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -71,6 +71,11 @@
   <ItemGroup>
     <Compile Include="Demo1.vb" />
     <Compile Include="Module1.vb" />
+    <Compile Include="Module2.vb" />
+    <Compile Include="Module3.vb" />
+    <Compile Include="Module4.vb" />
+    <Compile Include="Module5.vb" />
+    <Compile Include="Module6.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

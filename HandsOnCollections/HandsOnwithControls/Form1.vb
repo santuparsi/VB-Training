@@ -21,9 +21,9 @@ Public Class Form1
         n = t1.Text
         ar1.Add(n)
         cmb3.Items.Clear()
-        'For Each item In ar1
-        '    cmb3.Items.Add(item) 'Add items to combobox
-        'Next
-        cmb3.DataSource = ar1
+        For Each item In ar1
+            cmb3.Items.Add(item) 'Add items to combobox
+        Next
+
     End Sub
 End Class
