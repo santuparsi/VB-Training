@@ -1,0 +1,10 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe.config
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\bin\Debug\HandsOnFileHandling.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnFileHandling\HandsOnFileHandling\obj\Debug\HandsOnFileHandling.pdb

@@ -1,0 +1,11 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\bin\Debug\HandsOnClasses_Demo2.exe.config
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\bin\Debug\HandsOnClasses_Demo2.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\bin\Debug\HandsOnClasses_Demo2.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\bin\Debug\HandsOnClasses_Demo2.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.vbprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\Console\HandsOnClasses_Demo2\HandsOnClasses_Demo2\obj\Debug\HandsOnClasses_Demo2.pdb

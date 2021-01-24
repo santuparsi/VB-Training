@@ -1,0 +1,14 @@
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\bin\Debug\HandsOnAdo.exe.config
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\bin\Debug\HandsOnAdo.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\bin\Debug\HandsOnAdo.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\bin\Debug\HandsOnAdo.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.vbprojAssemblyReference.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.Form1.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.Resources.resources
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.vbproj.GenerateResource.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.exe
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.xml
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.pdb
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\OnlineBatch\Dotnet-Batch-3(VB)\HandsOnAdo\HandsOnAdo\obj\Debug\HandsOnAdo.vbproj.CopyComplete

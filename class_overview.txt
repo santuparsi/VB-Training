@@ -1,0 +1,15 @@
+Class-members
+------------
+Class Class_Name
+'variables
+'sub-procedures
+'functions
+'construnctors
+'properties
+End Class
+
+Class Employee
+sub AddEmployee()
+'logic here to add employee details to db
+End sub
+End Class
